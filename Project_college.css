@@ -1,0 +1,76 @@
+.cdiv1{ 
+	background-color: black; 
+	overflow: hidden;
+	 } 
+
+
+#projectabout1{ 
+	display:block;
+	 color: white; 
+	 text-decoration: none;
+	  font-size: 17px; 
+	  font-style:oblique;
+	   
+	}
+	#projectabout1 a:hover{
+		background-color: grey;
+	}
+
+.cdiv1 a{
+	padding: 10px 12px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	font-style: oblique;
+    
+    }
+
+#about{
+	float: right;
+	margin-right: 10px;
+}
+
+.cdiv1 a:hover{
+	background-color: grey;
+}
+
+.h3{
+	margin-left: 150px;
+	color: white;
+	margin-top: 50px;
+	
+}
+
+#hh3{
+    color: white; 
+	/*font-family: arial;*/
+	margin-top: 30px;
+	margin-left: 150px;
+	margin-right: 20px;
+}
+
+#Title{
+   color: white;
+   font-style: oblique;
+   font-size: 20px;
+   border-style: solid;
+   margin-right: 420px;
+   margin-left: 420px;
+   border-radius: 8px;
+   border-color: grey;
+   border-width: small;
+}
+#id1{
+	color: white;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-size: 15px;
+}
+
+#aboutimage{
+	float: right;
+	margin-right: 10px;
+	margin-left: 5px;
+}
+
